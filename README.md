@@ -14,7 +14,3 @@ The program uses ASCII art for visuals and random number generation to decide th
 2. The computer randomly picks its move.
 3. The game determines the winner based on standard Rock-Paper-Scissors rules.
 
----
-
-## 💻 Example Run
-
